@@ -1,4 +1,4 @@
-# Campus Quest - Trabalho de POO
+# Campus Quest - Trabalho de em grupo POO
 
 Jogo de RPG inspirado na jornada universitaria, desenvolvido em C# com foco nos pilares de POO. Possui interface em console (backend) e interface gráfica WinForms (frontend, somente Windows).
 
